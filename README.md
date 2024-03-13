@@ -9,7 +9,7 @@ The game allows the user to play against the computer using Java's JOptionPane f
 <li>A Graphical User Interface using JOptionPane;</li>
 <li>Math.random() for randomized computer moves;</li>
 <li>Switch statement for multiple possibilities;</li>
-<li>Do-while loop for the game;</li>
+<li>Do-while loop for the game.</li>
 
 <h3>Preview</h3>
 <img src="https://raw.githubusercontent.com/stefanyrjunges/RockPaperScissors/main/RockPaperScissorsPreview.png">

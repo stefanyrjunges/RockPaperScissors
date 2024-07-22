@@ -3,7 +3,7 @@
 This is a simple implementation of the classic game Rock, Paper, Scissors in Java, developed during Programming classes using randomized computer moves.
 The game allows the user to play against the computer using Java's JOptionPane for user input and output.
 
-<h3>What can be found in the code</h3>
+<h3>Project Structure</h3>
 <p align="justify">
 <li>Instantiable class and main() method;</li>
 <li>A Graphical User Interface using JOptionPane;</li>
